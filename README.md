@@ -51,11 +51,9 @@ This project feeds directly into GIS-based spatial analysis and ecological model
 4. Open the Jupyter notebook:
    notebooks/CameraTrap_Analysis.ipynb
 
-## Observation Density Heatmap
+## 📌 **Download the final release of the Camera Trap Analysis project:** [v1.0 – Camera Trap Analysis](https://github.com/Ankanhalder2000/camera-trap-data-analysis/releases/tag/v1.0)
 
-The Jupyter Notebook contains a code cell that generates a heatmap showing the density of camera trap observations based on longitude and latitude. 
-
-> Note: The PNG figure has been removed from the repository to reduce clutter, but the code and output remain in the notebook. Running the notebook will generate the heatmap interactively.Python-based heatmaps are exploratory.
+> Note: The Jupyter Notebook contains a code cell that generates a heatmap showing the density of camera trap observations based on longitude and latitude. The PNG figure has been removed from the repository to reduce clutter, but the code and output remain in the notebook. Running the notebook will generate the heatmap interactively.Python-based heatmaps are exploratory.
 Final spatial interpretation is intended for GIS platforms.
 
 
