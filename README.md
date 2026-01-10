@@ -31,6 +31,10 @@ The data is used strictly for academic and skill demonstration purposes.
 - Bar plots and density heatmaps
 - GIS-ready camera trap point dataset
 
+## Repository Status
+This repository represents a completed end-to-end analysis pipeline.
+Data cleaning, analysis, visualization, and GIS-ready exports are finalized.
+
 ## Next Steps
 - Spatial visualization in QGIS
 - Camera trap distribution mapping
@@ -38,6 +42,14 @@ The data is used strictly for academic and skill demonstration purposes.
 
 ## Future Use
 This project feeds directly into GIS-based spatial analysis and ecological modelling workflows.
+
+## How to Run This Project
+1. Clone the repository
+2. Create a virtual environment
+3. Install dependencies:
+   pip install -r requirements.txt
+4. Open the Jupyter notebook:
+   notebooks/CameraTrap_Analysis.ipynb
 
 ## Author
 Ankan Halder
