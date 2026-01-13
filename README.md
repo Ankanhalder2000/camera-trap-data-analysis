@@ -56,6 +56,9 @@ This project feeds directly into GIS-based spatial analysis and ecological model
 > Note: The Jupyter Notebook contains a code cell that generates a heatmap showing the density of camera trap observations based on longitude and latitude. The PNG figure has been removed from the repository to reduce clutter, but the code and output remain in the notebook. Running the notebook will generate the heatmap interactively.Python-based heatmaps are exploratory.
 Final spatial interpretation is intended for GIS platforms.
 
+Follow-up GIS Project:
+Camera Trap Spatial Distribution Mapping (QGIS):
+https://github.com/Ankanhalder2000/GIS-Camera-Trap-Spatial-Distribution
 
 ## Author
 Ankan Halder
